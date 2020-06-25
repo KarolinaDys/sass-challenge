@@ -1,7 +1,6 @@
-/*Global*/
 body {
   font: 100% "Space Mono", monospace;
-  color: blue;
+  color: red;
   margin: 0px;
   padding: 0px;
   background-color: #000;
@@ -72,7 +71,7 @@ article pre.after {
 h1,
 h2,
 h6 {
-  color: blue;
+  color: red;
 }
 
 h1 {
@@ -90,7 +89,7 @@ h6 {
   border: 1px solid #ccc;
   padding: 16px;
   margin: 16px;
-  color: blue;
+  color: red;
   background-color: #000;
 }
 
@@ -99,7 +98,7 @@ h6 {
 }
 
 .error {
-  background-color: red;
+  background-color: blue;
 }
 
 .warning {
